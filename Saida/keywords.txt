@@ -1,0 +1,4 @@
+Saida	KEYWORD1
+liga	KEYWORD2
+desliga	KEYWORD2
+inverte	KEYWORD2
