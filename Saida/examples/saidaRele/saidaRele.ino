@@ -2,7 +2,6 @@
   Essa biblioteca é utilizada para definir saidas
 
   Desenvolvido por Fábio Souza - 09/2013
-  FBS Eletrônica - www.fbseletronica.com.br
  ****************************************************/
 #include <Saida.h>
 
